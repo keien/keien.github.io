@@ -1,0 +1,38 @@
+html {
+  font: 12pt sans-serif;
+}
+
+body {
+  margin: auto;
+  width: 720px;
+}
+
+header {
+  background: #eee;
+  margin: 1rem 0;
+  padding: 0.5rem;
+}
+
+section {
+  padding: 0.5rem;
+}
+
+h1 {
+  font-size: 2rem;
+  margin: 0.5em 0;
+}
+
+h2 {
+  font-size: 1.2rem;
+  margin: 0.5em 0;
+}
+
+p {
+  font-size: 1rem;
+  margin: 0.5em 0;
+}
+
+.logo {
+  color: #a00;
+  text-decoration: none;
+}
